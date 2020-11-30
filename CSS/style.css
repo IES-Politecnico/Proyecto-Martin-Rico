@@ -1,0 +1,65 @@
+#portada {
+    
+    text-align: center;
+    color: white;
+}
+table{
+    width: 20%;
+    border-collapse: collapse;
+    color: white;
+    background-color: black;
+    
+}
+td{
+    border:1px solid white;
+    text-align: center;
+}
+#valhallanew{
+    color: white;
+    text-align: center;
+
+}
+#segundaparte{
+    text-align: center;
+    color: white;
+}
+#primertexto{
+    color: white;
+}
+#coldwar{
+    text-align: center;
+    color:black;
+}
+#coldwaruno{
+    color: black;
+    text-align: center;
+    
+}
+#coldwardos{
+    color: black;
+}
+#spideycolor{
+    color: white;
+}
+#flechacenter{
+    text-align: center;
+}
+#plus{
+    color: white;
+    text-align: center;
+}
+#now{
+    text-align: center;
+    color: white;
+
+}
+#nowdos{
+    color: white;
+}
+#cita{
+    color: white;
+}
+#demonsouls{
+    text-align: center;
+    color: white;
+}
