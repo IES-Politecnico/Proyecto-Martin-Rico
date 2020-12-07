@@ -28,10 +28,10 @@ td{
 }
 #coldwar{
     
-    color:black;
+    color:rgb(255, 94, 0);
 }
 #coldwaruno{
-    color: black;
+    color: rgb(0, 0, 0);
     
     
 }
@@ -40,6 +40,7 @@ td{
 }
 #spideycolor{
     color: white;
+    text-align: center;
 }
 #flechacenter{
     text-align: center;
@@ -62,4 +63,72 @@ td{
 #demonsouls{
     text-align: center;
     color: white;
+}
+#demonnoticia{
+    text-align: center;
+    color: white;
+}
+#demonletras{
+    text-align: center;
+    color: white;
+}
+#spidermanimg{
+    text-align: center;
+}
+#citaps5{
+    color: black;
+    text-align: center;
+}
+#titulops5{
+    color: rgb(0, 147, 206);
+    text-align: center;
+}
+#listaps5{
+    color: white;
+}
+#coldwarinicio{
+    color: white;
+    text-align: center;
+}
+#coldwarimg{
+    text-align: center;
+}
+#valhallainicio{
+    color: white;
+    text-align: center;
+}
+#valhallaimg{
+    text-align: center;
+}
+#plus{
+    color: white;
+    text-align: center;
+}
+#plusimg{
+    text-align: center;
+}
+#exclusivosPS5{
+    background-color: rgb(0, 55, 128);
+    padding: 30px;
+    text-align: center;
+    margin: 80px  
+}
+#thirdparty2{
+    background-color: rgb(0, 139, 58);
+    padding: 30px;
+    text-align: center;
+    margin: 80px  
+}
+#serviciosplay{
+    background-color: rgb(208, 231, 0);
+    padding: 30px;
+    text-align: center;
+    margin: 80px 
+}
+#miinformacion{
+    background-color: white;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    margin: 10px;
 }
