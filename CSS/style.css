@@ -107,19 +107,19 @@ td{
 #plusimg{
     text-align: center;
 }
-#exclusivosPS5{
+.exclusivosPS5{
     background-color: rgb(0, 55, 128);
     padding: 30px;
     text-align: center;
     margin: 80px  
 }
-#thirdparty2{
+.thirdparty2{
     background-color: rgb(0, 139, 58);
     padding: 30px;
     text-align: center;
     margin: 80px  
 }
-#serviciosplay{
+.serviciosplay{
     background-color: rgb(208, 231, 0);
     padding: 30px;
     text-align: center;
