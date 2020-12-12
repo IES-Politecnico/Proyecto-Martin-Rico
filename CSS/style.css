@@ -28,6 +28,8 @@ td{
 }
 #primertexto{
     color: white;
+    background-color: rgb(150, 204, 0);
+    
 }
 #coldwar{
     
@@ -147,4 +149,12 @@ td{
     background-color: wheat;
     padding: 10px;
     margin: 10px;
+}
+#primertextops5{
+    text-align: center;
+    color: black;
+}
+#plus2{
+    text-align: center;
+
 }
