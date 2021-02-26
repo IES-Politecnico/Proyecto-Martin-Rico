@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="icon" href="../icon/estacion-de-juegos.png" type="image/png" sizes="16x16">
+
+    <meta name="robots" content="index,follow">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Martín Rico Quispe, Rettro Z">
+    <meta name="description"
+        content="Noticias de videojuegos para estar informado de las últimas novedades, análisis...">
+    <title>Acceso</title>
+    <script type="text/javascript" src="../Javascript.js"></script>
+    <link rel="stylesheet" href="../CSS/style.css">
+</head>
+<body style="background: url(https://images6.alphacoders.com/108/thumb-1920-1082646.png);">
+    <main>
+        <form action="#" method="get" name="registro" id="register">
+            <fieldset style="color: aliceblue;">
+                <legend>REGISTRO</legend>
+                <p>Usuario (mín. 6 carácteres): <input type="text" name="usuario" minlength="6" required></p><br>
+                <p>Contraseña (mín.8 carácteres): <input type="password" name="contraseña" minlength="8" required></p><br>
+                <p>Repetir contraseña:<input type="password" name="repite_contraseña" required=""></p><br>
+                <p id="coincide"></p><br>
+                <p>Nombre: <input type="text" name="nombre" maxlength="26"></p>
+                <p>Primer apellido: <input type="text" name="apellido1" maxlength="25"></p><br>
+                <p>Segundo apellido: <input type="text" name="apellido2" maxlength="25"></p><br>
+                <p>Fecha de nacimiento <input type="date" name="nacimiento"></p><br>
+                <p>Correo electrónico <input type="email" name="correo"></p><br>
+
+                <input type="button" value="Enviar" name="enviar" onclick="verifica()">
+                <input type="reset" value="Borrar">
+
+
+            </fieldset>
+        </form>
+    </main>
+    
+</body>
+</html>

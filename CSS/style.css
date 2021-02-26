@@ -158,3 +158,13 @@ td{
     text-align: center;
 
 }
+legend{
+    text-align: center;
+}
+form{
+    position: relative;
+    width  : 500px;
+    height : 500px;
+    margin-top : 50px;
+    margin-left: 0px;
+}
